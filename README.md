@@ -1,2 +1,3 @@
-# Adyen-Website-Clone
-Recreation of Adyen website home page
+# Adyen Website Clone
+
+[Preview](https://mohammedagl6.github.io/Adyen-Website-Clone)
